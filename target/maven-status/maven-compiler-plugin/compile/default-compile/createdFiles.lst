@@ -1,0 +1,4 @@
+com\test\job\SampleJob.class
+com\test\job\ExecuteJob.class
+com\test\job\ExecuteSimpleTrigge.class
+com\test\job\ExecuteCronTrigger.class
